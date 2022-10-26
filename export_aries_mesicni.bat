@@ -1,8 +1,8 @@
 @echo off
 c:
 cd c:\Farmis2\exporty_aries
-SET ISC_USER=FARMIS_CTENI
-SET ISC_PASSWORD=Q7nFeN#k
+SET ISC_USER=FARMIS
+SET ISC_PASSWORD=PSW
 SET ADRESAR=c:\Farmis2\exporty_aries
 SET DB=aries-iva/33050:C:\database\farmis2.fdb
 
